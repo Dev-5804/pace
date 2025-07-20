@@ -19,7 +19,7 @@ A sleek and responsive **eCommerce landing page** for sneakers, built with **Vit
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7dc19ee8-16db-4cc3-9fd5-db797ff544ab" />
  
-> Live Demo](https://your-demo-url.com)
+> [Live Demo](https://pace-sand.vercel.app/)
 
 ---
 
@@ -40,11 +40,11 @@ A sleek and responsive **eCommerce landing page** for sneakers, built with **Vit
 ├── src/
 │   ├── assets/
 │   ├── components/
-|   ├── sections/
-|   ├── constants/
-|   ├── App.jsx
-|   ├── index.css
-|   ├── main.jsx
+│   ├── sections/
+│   ├── constants/
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
 ├── index.html
 ├── tailwind.config.js
 ├── postcss.config.js

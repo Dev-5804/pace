@@ -9,3 +9,11 @@
 //     img3,
 //     img4
 // }
+
+import person1 from './person1.jpg';
+import person2 from './person2.jpg'
+ 
+export {
+    person1,
+    person2
+}

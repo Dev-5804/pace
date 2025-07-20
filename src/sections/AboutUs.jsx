@@ -6,7 +6,7 @@ const AboutUs = () => {
   return (
     <section
       id="about-us"
-      className="flex flex-col w-full max-container pt-36 pb-16 px-20"
+      className="flex flex-col w-full max-container pt-36 pb-16 px-12 md:px20"
     >
       {/* Main About Section */}
       <div className="flex justify-between items-center max-lg:flex-col gap-10 mb-20">

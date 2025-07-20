@@ -6,7 +6,7 @@ const Products = () => {
   return (
     <section
       id="products"
-      className="max-container max-sm:mt-12 pt-36 pb-16 px-20"
+      className="max-container max-sm:mt-12 pt-36 pb-16 px-12 md:px20"
     >
       <div className="flex flex-col justify-start gap-5">
         <h2 className="font-palanquin text-4xl lg:text-5xl font-bold lg:max-w-lg leading-tight">

@@ -4,7 +4,7 @@ import ServiceCard from "../components/ServiceCard";
 
 const OurServices = () => {
   return (
-    <section id="services" className="max-container pt-36 pb-16 px-20">
+    <section id="services" className="max-container pt-36 pb-16 px-12 md:px20">
       {/* Header Section */}
       <div className="flex flex-col items-center mb-12 lg:mb-16">
         <h2 className="font-palanquin text-4xl lg:text-5xl font-bold max-w-lg leading-tight">
@@ -12,8 +12,8 @@ const OurServices = () => {
         </h2>
         <p className="mt-6 lg:mt-8 max-w-2xl info-text text-slate-gray leading-7">
           We provide comprehensive services to ensure you get the best
-          experience with our products. From fast delivery to expert support,
-          we have got you covered.
+          experience with our products. From fast delivery to expert support, we
+          have got you covered.
         </p>
       </div>
 

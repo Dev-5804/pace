@@ -5,7 +5,7 @@ const ContactUs = () => {
   return (
     <section
       id="contact-us"
-      className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container pt-36 pb-16 px-20"
+      className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container pt-36 pb-16 px-12 md:px20"
     >
       <div className="flex flex-1 flex-col pr-5">
         <h2 className="font-palanquin text-4xl lg:text-5xl font-bold lg:max-w-lg leading-tight">
@@ -42,9 +42,7 @@ const ContactUs = () => {
 
             <div>
               <h4 className="font-semibold text-slate-800">Address</h4>
-              <p className="text-slate-gray">
-                123 Sneaker Street
-              </p>
+              <p className="text-slate-gray">123 Sneaker Street</p>
             </div>
           </div>
         </div>

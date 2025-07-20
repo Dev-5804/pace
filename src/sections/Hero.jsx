@@ -16,7 +16,7 @@ const Hero = () => {
       <div className='relative xl:w-2/5 flex flex-col justify-center items-start w-full max-xl:padding-x pt-28'>
         <p className='text-3xl font-montserrat text-coral-red'>Out Summer Collection</p>
         <h1 className='mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[1] font-bold'>
-          <span className=' xl:whitesPACE-nowrap relative z-10 pr-10'>The New Arrival</span>
+          <span className=' xl:whitesPACE-nowrap relative z-5 pr-10'>The New Arrival</span>
           <br />
           <span className='text-coral-red inline-block mt-3'>PACE</span> Shoes
         </h1>

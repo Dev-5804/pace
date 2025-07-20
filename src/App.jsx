@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { CustmerReview, Footer, Hero, PopularProducts, Services, SpecialOffer, Subscribe, SuperQuality } from '/src/sections';
 import Nav from './components/Nav';

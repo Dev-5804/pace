@@ -6,7 +6,7 @@ const OurServices = () => {
   return (
     <section id="services" className="max-container pt-36 pb-16 px-20">
       {/* Header Section */}
-      <div className="flex flex-col items-center text-center mb-12 lg:mb-16">
+      <div className="flex flex-col items-center mb-12 lg:mb-16">
         <h2 className="font-palanquin text-4xl lg:text-5xl font-bold max-w-lg leading-tight">
           Our <span className="text-coral-red">Services</span>
         </h2>
